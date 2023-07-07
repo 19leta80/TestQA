@@ -1,0 +1,3 @@
+Ссылка на сборку - https://dev.irpteam.com/tc/buildConfiguration/IRP_RunVA/37514?buildTab=overview&expandPull+Request+Details=true&showRootCauses=false
+1. _0051192 filling in Package unit when create new item - упал по причине невозможно выбрать значение в обязательном поле - Package unit.
+Есть еще ошибки. Не могу посмотреть - ошибка 404 Test result with uid "cdd992235873e94c" not found
